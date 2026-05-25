@@ -41,9 +41,7 @@ Currently, Terminal 71 offers:
 
 | Project Name | Description |
 |---|---|
-| [Project Alpha](https://github.com/your-org/project-alpha) | A modern web platform designed for productivity and collaboration. |
-| [Project Nova](https://github.com/your-org/project-nova) | A scalable web-based management system for businesses and organizations. |
-| [Project Orion](https://github.com/your-org/project-orion) | A customizable dashboard solution with analytics and user management features. |
+| [Project Test](https://github.com/your-org/project-alpha) | TEMPORARY |
 
 ---
 
@@ -51,10 +49,10 @@ Currently, Terminal 71 offers:
 
 | Role | Name | GitHub |
 |---|---|---|
-| CEO | Your Name | https://github.com/your-github |
-| CTO | Your Name | https://github.com/your-github |
-| Project Manager | Your Name | https://github.com/your-github |
-| Lead Marketing | Your Name | https://github.com/your-github |
+| CEO | Name | https://github.com/your-github |
+| CTO | Name | https://github.com/your-github |
+| Project Manager | Name | https://github.com/your-github |
+| Lead Marketing | Name | https://github.com/your-github |
 
 ---
 
