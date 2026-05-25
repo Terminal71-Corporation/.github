@@ -49,10 +49,10 @@ Currently, Terminal 71 offers:
 
 | Role | Name | GitHub |
 |---|---|---|
-| CEO | Name | https://github.com/your-github |
+| CEO | Mark Andrew Aquino | https://github.com/aquinomark217 |
 | CTO | Name | https://github.com/your-github |
-| Project Manager | Name | https://github.com/your-github |
-| Lead Marketing | Name | https://github.com/your-github |
+| Project Manager | Krey Francisco | https://github.com/kreyfrancisco |
+| Lead Marketing | Dexter Paniza |
 
 ---
 
