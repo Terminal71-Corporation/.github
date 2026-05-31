@@ -1,4 +1,6 @@
-# Terminal 71
+<p align="center">
+  <img src="" alt="Terminal 71" />
+</p>
 
 > Software Solutions Company
 
