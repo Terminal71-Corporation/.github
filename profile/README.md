@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="Terminal 71" />
+  <img src="../resources/terminal71_banner_v2.svg" alt="Terminal 71" />
 </p>
 
 > Software Solutions Company
