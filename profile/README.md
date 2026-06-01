@@ -61,7 +61,7 @@ Currently, Terminal 71 offers:
 # Contact
 
 ## Business Email
-business@terminal71.com
+terminal71corp@gmail.com
 
 ## Website
 https://terminal71.com
