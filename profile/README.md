@@ -2,11 +2,11 @@
   <img src="../resources/terminal71_banner_v2.svg" alt="Terminal 71" />
 </p>
 
-> Software Solutions Company
+> IT Solutions Company
 
 ## Description
 
-Terminal 71 is a software solutions company focused on building modern, scalable, and efficient web applications for clients. We transform ideas into digital solutions through clean design, structured development, and collaborative teamwork.
+Terminal 71 is a IT solutions company focused on building modern, scalable, and efficient web applications for clients. We transform ideas into digital solutions through clean design, structured development, and collaborative teamwork.
 
 Our team is composed of passionate developers, project managers, and marketers dedicated to creating high-quality systems that help businesses and organizations grow in the digital space.
 
